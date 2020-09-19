@@ -1,6 +1,6 @@
 {
   "name": "@nnnx/utils",
-  "version": "1.0.31",
+  "version": "1.0.32",
   "description": "Various utility functions",
   "main": "index.js",
   "scripts": {
